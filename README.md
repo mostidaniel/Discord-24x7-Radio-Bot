@@ -24,4 +24,4 @@ See [LICENSE](https://github.com/navaneethkm004/Discord-24x7-Radio-Bot/blob/mast
 
 ## Credits
 
-This bot was inspired and made from [Sudhan's](https://github.com/SudhanPlayz/Discord-MusicBot) bot! Thank you Sudhan!
+This bot was inspired and made from [Sudhan's](https://github.com/SudhanPlayz/Discord-MusicBot) bot's framework! Thank you Sudhan!
