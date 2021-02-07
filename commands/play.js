@@ -96,7 +96,7 @@ module.exports = {
             const queue = message.client.queue.get(message.guild.id);
             if (!song) {
                 sendError(
-                    "Thank you for using my code! [GitHub](https://github.com/navaneethkm004/Discord-24x7-Simple-Radio-Bot)",
+                    "Thank you for using my code! [GitHub](https://github.com/navaneethkm004/Discord-24x7-Radio-Bot)",
                     message.channel
                 );
                 message.guild.me.voice.channel.leave(); //If you want your bot stay in vc 24/7 remove this line :D
