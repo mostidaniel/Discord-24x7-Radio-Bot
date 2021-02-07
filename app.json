@@ -1,0 +1,19 @@
+{
+  "name": "Discord-24x7-Radio-Bot",
+  "description": "Very simple discord radio bot with the discord.js.",
+  "repository": "https://github.com/navaneethkm004/Discord-24x7-Radio-Bot",
+  "logo": "https://github.com/navaneethkm004/my-images/blob/main/giphy.gif?raw=true",
+  "keywords": ["node", "discord", "youtube","music","bot","radio"],
+  "image": "heroku/nodejs",
+  "buildpacks":
+  "env": {
+    "TOKEN": {
+      "description": "The token copied in the first section.",
+      "required": "true"
+    },
+    "PREFIX": {
+      "description": "The prefix you want to use with the bot.",
+      "value": "!"
+    }
+  }  
+}
