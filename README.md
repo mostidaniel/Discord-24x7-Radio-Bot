@@ -9,6 +9,8 @@ Host your own music streaming bot that stays in a channel forever and streams mu
 
 [<img src="https://github.com/navaneethkm004/my-images/blob/main/no7.png?raw=true">](https://youtu.be/Xf0zsd9m_io)
 
+## Run On [Repl.it](https://repl.it)
+
 [![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Discord-24x7-Radio-Bot)](https://repl.it/github/navaneethkm004/Discord-24x7-Radio-Bot)
 
 ## Author
