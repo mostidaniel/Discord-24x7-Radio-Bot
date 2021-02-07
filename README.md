@@ -21,3 +21,7 @@ Host your own music streaming bot that stays in a channel forever and streams mu
 
 This repo is under the GNU General Public License v3.0.<br>
 See [LICENSE](https://github.com/navaneethkm004/Discord-24x7-Radio-Bot/blob/master/LICENSE) File.
+
+## Credits
+
+This bot was inspired and made from [Sudhan's](https://github.com/SudhanPlayz/Discord-MusicBot) bot! Thank you Sudhan!
