@@ -9,9 +9,30 @@ Host your own music streaming bot that stays in a channel forever and streams mu
 
 [<img src="https://github.com/navaneethkm004/my-images/blob/main/no7.png?raw=true">](https://youtu.be/Xf0zsd9m_io)
 
-## Run On [Repl.it](https://repl.it)
+## To run the usual version, click the button below:
 
 [![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Discord-24x7-Radio-Bot)](https://repl.it/github/navaneethkm004/Discord-24x7-Radio-Bot)
+
+## To run the modified version on repl.it, follow the steps:
+
+- Click this button first
+
+[![Fork](https://raw.githubusercontent.com/navaneethkm004/my-images/main/fork-button.png)](https://repl.it/@nkmrepl/Radio-Bot-Modified)
+
+- Now click this when you get to this page
+
+<img src="https://raw.githubusercontent.com/navaneethkm004/my-images/main/click-fork.png">
+
+- Now go to .env.example file and copy the contents in it.
+
+<img src="https://github.com/navaneethkm004/my-images/blob/main/go-to-env.png?raw=true">
+<img src="https://github.com/navaneethkm004/my-images/blob/main/copy-content.png?raw=true">
+
+- Now create a new file and name it *.env*. Then paste the contents you copied earlier.
+
+<img src="https://github.com/navaneethkm004/my-images/blob/main/paste.png?raw=true">
+
+- Now follow the steps as in the [YouTube tutorial](https://youtu.be/Xf0zsd9m_io)!
 
 ## Author
 
