@@ -17,7 +17,7 @@ Host your own music streaming bot that stays in a channel forever and streams mu
 
 - Click this button first
 
-[![Fork](https://raw.githubusercontent.com/navaneethkm004/my-images/main/fork-button.png)](https://repl.it/@nkmrepl/Radio-Bot-Modified)
+<img target="_blank" src="https://raw.githubusercontent.com/navaneethkm004/my-images/main/fork-button.png">
 
 - Now click this when you get to this page
 
