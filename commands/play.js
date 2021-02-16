@@ -87,7 +87,7 @@ module.exports = {
             songs: [],
             volume: 80,
             playing: true,
-            loop: false,
+            loop: true,
         };
         message.client.queue.set(message.guild.id, queueConstruct);
         queueConstruct.songs.push(song);
@@ -99,7 +99,6 @@ module.exports = {
                     "Thank you for using my code! [GitHub](https://github.com/navaneethkm004/Discord-24x7-Radio-Bot)",
                     message.channel
                 );
-                message.guild.me.voice.channel.leave(); //If you want your bot stay in vc 24/7 remove this line :D
                 message.client.queue.delete(message.guild.id);
                 return;
             }
