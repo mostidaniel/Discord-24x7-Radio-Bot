@@ -1,7 +1,7 @@
 require("dotenv").config();//Loading .env
 const fs = require("fs");
 const { Collection, Client } = require("discord.js");
-
+const { keep_alive } = require("./keep_alive");
 const client = new Client();//Making a discord bot client
 client.commands = new Collection();//Making client.commands as a Discord.js Collection
 client.queue = new Map()
